@@ -24,6 +24,7 @@
   },
 
   "dependencies": {
+    "hubot-gtalk":     ">= 0.0.1",
     "coffee-script":      "1.6.3",
     "optparse":           "1.0.4",
     "scoped-http-client": "0.9.8",
